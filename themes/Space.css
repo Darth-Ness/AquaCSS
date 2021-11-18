@@ -1,13 +1,13 @@
 #header {
-    background-color: rgba(32, 167, 39, 0.6);
+    background-color: rgba(168, 136, 221, 0.2);
     padding: 15px;
     box-shadow: 2px 4px rgba(0, 0, 0, 0.6);
     margin-bottom: 30px;
     transition: background-color 700ms;
 }
-#header:hover { background-color: rgba(136, 221, 140, 0.8);}
+#header:hover { background-color: rgba(168, 136, 221, 0.4);}
 #card {
-    background-color: rgba(136, 221, 140, 0.5);
+    background-color: rgba(149, 109, 214, 0.2);
     padding: 30px;
     width: fit-content;
     min-width: 30%;
@@ -18,17 +18,15 @@
     margin-bottom: 10%;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.7);
  }
-#card:hover {
-    box-shadow: 2px 8px rgba(0, 0, 0, 0.7);
-    background-color: rgba(136, 221, 140, 0.8);
-}
+#card:hover { box-shadow: 2px 8px rgba(0, 0, 0, 0.7); background-color: rgba(149, 109, 214, 0.4);}
 body {
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     margin: 0px;
-    color: #535353; 
+    background-color: #001219;
+    color: #c9c9c9; 
 }
 button {
-    background-color: #4777c0;
+    background-color: #24406b;
     border: none;
     color: #c9c9c9;
     padding: 15px;
