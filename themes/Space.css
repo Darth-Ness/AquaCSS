@@ -1,6 +1,12 @@
-#header {background-color: rgba(168, 136, 221, 0.2);}
-#header:hover { background-color: rgba(168, 136, 221, 0.4);}
-#card {background-color: rgba(149, 109, 214, 0.2);}
+#header {
+    background-color: rgba(168, 136, 221, 0.2);
+    transition: background-color 700ms;
+}
+#header:hover {background-color: rgba(168, 136, 221, 0.4);}
+#card {
+    background-color: rgba(149, 109, 214, 0.2);
+    transition: background-color 700ms;
+}
 #card:hover {background-color: rgba(149, 109, 214, 0.4);}
 body {
     background-color: #001219;
@@ -10,4 +16,3 @@ button {
     background-color: #24406b;
     color: #c9c9c9;
 }
-button:hover {box-shadow: 2px 6px rgba(0, 0, 0, 0.7);}
