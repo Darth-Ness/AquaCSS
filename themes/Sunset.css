@@ -9,7 +9,7 @@
 #card:hover {background-color: rgba(255, 255, 255, 0.3);}
 body {
     background-image: linear-gradient(to bottom, rgb(255, 145, 0), rgb(248, 238, 148));
-    color: #c9c9c9; 
+    color: #860ace; 
 }
 button {
     background-image: linear-gradient(to bottom, rgb(134, 67, 196), rgb(55, 24, 139));

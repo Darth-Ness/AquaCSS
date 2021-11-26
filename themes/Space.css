@@ -12,7 +12,4 @@ body {
     background-color: #001219;
     color: #c9c9c9; 
 }
-button {
-    background-color: #24406b;
-    color: #c9c9c9;
-}
+button {background-image: linear-gradient(to bottom, #446dac, #24406b); color: #fff;}
