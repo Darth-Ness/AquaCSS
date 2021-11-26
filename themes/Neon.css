@@ -2,6 +2,7 @@
     background-color: rgba(247, 33, 25, 0.8);
     transition: background-color 700ms;
 }
+#banner {background-color: rgba(247, 33, 25, 0.8);}
 #card {
     background-color: rgba(153, 223, 255, 0.6);
     transition: background-color 700ms;}
