@@ -1,8 +1,4 @@
-#header {
-    background-color: rgba(168, 136, 221, 0.2);
-    transition: background-color 700ms;
-}
-#banner {background-color: rgba(168, 136, 221, 0.2);}
+#header {background-color: rgba(168, 136, 221, 0.2);}
 #header:hover {background-color: rgba(168, 136, 221, 0.4);}
 #card {
     background-color: rgba(149, 109, 214, 0.2);
