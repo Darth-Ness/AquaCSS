@@ -37,4 +37,6 @@ button {
 button:hover {box-shadow: 2px 6px rgba(0, 0, 0, 0.7);}
 #left {float: left;}
 #right {float: right;}
+#top {position: relative; bottom: 100%}
+#bottom {position: relative; top: 100%}
 a {text-decoration: none;}
