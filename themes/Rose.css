@@ -1,10 +1,10 @@
-#header {background-color: rgba(26, 94, 241, 0.2);}
-#banner {background-color: rgba(26, 94, 241, 0.2);}
-#card {
+.header {background-color: rgba(26, 94, 241, 0.2);}
+.banner {background-color: rgba(26, 94, 241, 0.2);}
+.card {
     background-color: rgba(30, 135, 255, 0.2);
     transition: background-color 700ms;
 }
-#card:hover {background-color: rgba(30, 135, 255, 0.4);}
+.card:hover {background-color: rgba(30, 135, 255, 0.4);}
 body {
     background-color: #001219;
     color: #db24c3; 
