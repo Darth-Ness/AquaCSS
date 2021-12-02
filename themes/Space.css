@@ -1,13 +1,9 @@
-.header {background-color: rgba(168, 136, 221, 0.2);}
-.banner {background-color: rgba(168, 136, 221, 0.2);}
+.header,.banner {background-color: rgba(168, 136, 221, 0.2);}
 .card {
     background-color: rgba(149, 109, 214, 0.2);
     transition: background-color 700ms;
 }
 .card:hover {background-color: rgba(149, 109, 214, 0.4);}
-body {
-    background-color: #001219;
-    color: #c9c9c9; 
-}
+body {background-color: #001219;}
 button {background-image: linear-gradient(to bottom, #6ea8ff, #24406b);}
-a {color:#c9c9c9;}
+a,body {color:#c9c9c9;}

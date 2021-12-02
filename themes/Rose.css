@@ -1,16 +1,9 @@
-.header {background-color: rgba(26, 94, 241, 0.2);}
-.banner {background-color: rgba(26, 94, 241, 0.2);}
-.card {
-    background-color: rgba(30, 135, 255, 0.2);
-    transition: background-color 700ms;
-}
+.header,.banner,.card {background-color: rgba(26, 94, 241, 0.2);}
+.card {transition: background-color 700ms;}
 .card:hover {background-color: rgba(30, 135, 255, 0.4);}
 body {
     background-color: #001219;
     color: #db24c3; 
 }
-button {
-    background-image: linear-gradient(to bottom, #db24c3, #520e49);;
-    color: #c9c9c9;
-}
-a{color:#c9c9c9;}
+button {background-image: linear-gradient(to bottom, #db24c3, #520e49);}
+a,button{color:#c9c9c9;}
