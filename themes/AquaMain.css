@@ -4,6 +4,7 @@
     border-radius: 20px;
     text-shadow: 1px 1px rgba(0, 0, 0, 1);
 }
+.header,.banner {border-radius: 0px;}
 .header {margin-bottom: 5%;}
 
 .card {
