@@ -1,42 +1,36 @@
-<html>
-    <head>
-        <title>AquaCSS</title>
-        <meta name ="viewport" content="width=device-width, initial-scale=1 "/>
-        <link rel="stylesheet" href="themes/AquaMain.css">
-        <link id="pagestyle" rel="stylesheet" href="themes/Rose.css">
-    </head>
-    <body>
-        <center>
-            <div class="header">
-                <h1>AquaCSS</h1>
-                <button onclick="swapStyleSheet('themes/Glass.css')">Glass</button>
-                <button onclick="swapStyleSheet('themes/Natrual.css')">Natrual</button>
-                <button onclick="swapStyleSheet('themes/Neon.css')">Neon</button>
-                <button onclick="swapStyleSheet('themes/Rose.css')">Rose</button>
-                <button onclick="swapStyleSheet('themes/Space.css')">Space</button>
-                <button onclick="swapStyleSheet('themes/Sunset.css')">Sunset</button>
-            </div>
-            <h1>AquaCSS is a CSS framework.</h1>
-            <br>
-            <div class="card">
-            <h4>It is designed to be fast, lightweight and powerful. <br>
-                It is very simple to use.<br>
-                All you have to do is add the AquaMain.css and a theme of your choice to your webpage.<br>
-                Then, AquaCSS will do the rest for you!</h4>
-            </div>
-            <br>
-            <br>
+<title>AquaCSS</title>
+<meta name ="viewport" content="width=device-width, initial-scale=1 "/>
+<link rel="stylesheet" href="themes/AquaMain.css">
+<link id="pagestyle" rel="stylesheet" href="themes/Rose.css">
+<center>
+    <div class="header">
+        <h1>AquaCSS</h1>
+        <button onclick="swapStyleSheet('themes/Glass.css')">Glass</button>
+        <button onclick="swapStyleSheet('themes/Natrual.css')">Natrual</button>
+        <button onclick="swapStyleSheet('themes/Neon.css')">Neon</button>
+        <button onclick="swapStyleSheet('themes/Rose.css')">Rose</button>
+        <button onclick="swapStyleSheet('themes/Space.css')">Space</button>
+        <button onclick="swapStyleSheet('themes/Sunset.css')">Sunset</button>
+    </div>
+    <h1>AquaCSS is a CSS framework.</h1>
+    <br>
+    <div class="card">
+        <h4>It is designed to be fast, lightweight and powerful. <br>
+        It is very simple to use.<br>
+        All you have to do is add the AquaMain.css and a theme of your choice to your webpage.<br>
+        Then, AquaCSS will do the rest for you!</h4>
+    </div>
+    <br>
+    <br>
 
-            <div class="card">
-            <h4>If you would like to add something to AquaCSS please create a pull request on the GitHub link above. <br>
-               If you have a suggestion or you found a bug please create a issue.
-            </h4>
-            </div>
-        </center>
+    <div class="card">
+        <h4>If you would like to add something to AquaCSS please create a pull request on the GitHub link above. <br>
+            If you have a suggestion or you found a bug please create a issue.
+        </h4>
+    </div>
+</center>
 <script>
 function swapStyleSheet(sheet){
 	document.getElementById('pagestyle').setAttribute('href', sheet);
 }
 </script>
-    </body>
-</html>
