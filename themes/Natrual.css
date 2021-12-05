@@ -1,5 +1,5 @@
 .header,.banner,.card {background-color: rgba(31, 155, 37, 0.6);}
 .card {transition: background-color 700ms;}
 .card:hover {background-color: rgba(31, 155, 37, 0.8);}
-body,a { color: #3f82ac; }
-button {background-image: linear-gradient(to bottom, #696969, #303030);}
+body,a { color: #696969; }
+button {background-image: linear-gradient(to bottom, #696969, #303030); color: #c9c9cc}

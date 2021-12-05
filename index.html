@@ -3,14 +3,19 @@
         <title>AquaCSS</title>
 
         <link rel="stylesheet" href="themes/AquaMain.css">
-        <link rel="stylesheet" href="themes/Rose.css">
+        <link id="pagestyle" rel="stylesheet" href="themes/Rose.css">
     </head>
     <body>
         <center>
             <div class="top">
                 <div class="header">
                     <h1>AquaCSS</h1>
-                    <button><a href="https://github.com/Darth-Ness/AuqaCSS">GitHub</a></button>
+                    <button onclick="swapStyleSheet('themes/Glass.css')">Glass</button>
+                    <button onclick="swapStyleSheet('themes/Natrual.css')">Natrual</button>
+                    <button onclick="swapStyleSheet('themes/Neon.css')">Neon</button>
+                    <button onclick="swapStyleSheet('themes/Rose.css')">Rose</button>
+                    <button onclick="swapStyleSheet('themes/Space.css')">Space</button>
+                    <button onclick="swapStyleSheet('themes/Sunset.css')">Sunset</button>
                 </div>
             </div>
             <h1>AquaCSS is a CSS framework.</h1>
@@ -30,5 +35,10 @@
             </h4>
             </div>
         </center>
+<script>
+function swapStyleSheet(sheet){
+	document.getElementById('pagestyle').setAttribute('href', sheet);
+}
+</script>
     </body>
 </html>
