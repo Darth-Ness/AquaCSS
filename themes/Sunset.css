@@ -1,6 +1,6 @@
-#header,#banner,#card {background-color: rgba(255, 255, 255, 0.5);}
-#card {transition: background-color 700ms;}
-#card:hover {background-color: rgba(255, 255, 255, 0.3);}
+.header,.banner,.card {background-color: rgba(255, 255, 255, 0.5);}
+.card {transition: background-color 700ms;}
+.card:hover {background-color: rgba(255, 255, 255, 0.3);}
 body {
     background-image: linear-gradient(to bottom, rgb(255, 145, 0), rgb(248, 238, 148));
     color: #860ace; 

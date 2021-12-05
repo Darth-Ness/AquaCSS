@@ -1,20 +1,20 @@
-#header,#banner,button {
+.header,.banner,.card,button {
     padding: 15px;
     box-shadow: 2px 4px rgba(0, 0, 0, 0.6);
     border-radius: 20px;
     text-shadow: 1px 1px rgba(0, 0, 0, 1);
 }
-#header,#banner {border-radius: 0px;}
-#header {margin-bottom: 5%;}
+.header,.banner {border-radius: 0px;}
+.header {margin-bottom: 5%;}
 
-#card {
+.card {
     width: fit-content;
     min-width: 30%;
     max-width: 60%;
-    transition: box-shadow 500ms;
+    transition: box-shadow 500ms, background-color 700ms;
     margin-bottom: 10%;
 }
-#card:hover {box-shadow: 2px 8px rgba(0, 0, 0, 0.7);}
+.card:hover { box-shadow: 2px 8px rgba(0, 0, 0, 0.7);}
 body{
     font-family: Helvetica, Arial, sans-serif;
     margin: 0;
@@ -24,15 +24,11 @@ button {
     font-size: 18;
     transition: box-shadow 500ms;
     margin-right: 25px;
-    padding: 15px;
-    box-shadow: 2px 4px rgba(0, 0, 0, 0.6);
-    border-radius: 20px;
-    text-shadow: 1px 1px rgba(0, 0, 0, 1);
 }
-button:hover {box-shadow: 2px 8px rgba(0, 0, 0, 0.7);}
-#left {float: left;}
-#right {float: right;}
-#top {position: relative; bottom: 100%}
-#bottom {position: relative; top: 100%}
-#absolute {position: absolute;}
+button:hover {box-shadow: 2px 6px rgba(0, 0, 0, 0.7);}
+.left {float: left;}
+.right {float: right;}
+.top {position: relative; bottom: 100%}
+.bottom {position: relative; top: 100%}
+.absolute {position: absolute;}
 a {text-decoration: none;}
