@@ -5,5 +5,5 @@
 }
 .card:hover {background-color: rgba(149, 109, 214, 0.4);}
 body {background-color: #001219;}
-button {background-image: linear-gradient(to bottom, #6ea8ff, #24406b);}
-a,body {color:#c9c9c9;}
+button {background-image: linear-gradient(to bottom, #6ea8ff, #24406b)}
+a,body, button {color:#c9c9c9;}
