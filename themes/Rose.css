@@ -1,3 +1,4 @@
+@import "AquaMain.css";
 .header,.banner,.card {background-color: rgba(26, 94, 241, 0.2);}
 .card {transition: background-color 700ms;}
 .card:hover {background-color: rgba(30, 135, 255, 0.4);}
