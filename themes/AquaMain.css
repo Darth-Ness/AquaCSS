@@ -22,11 +22,13 @@ body{
  }
 button {
     border: none;
-    font-size: 18;
     transition: box-shadow 500ms;
     margin-right: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0.8;
 }
-button:hover {box-shadow: 2px 6px rgba(0, 0, 0, 0.7);}
+button:hover {box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);}
 .left {float: left;}
 .right {float: right;}
 .top {position: relative; bottom: 100%}
