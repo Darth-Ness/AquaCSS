@@ -1,7 +1,7 @@
 @import "local.css";
 .header,.banner,.card,button {
     padding: 15px;
-    box-shadow: 2px 4px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 4px 7px rgba(0, 0, 0, 0.4);;
     border-radius: 20px;
     text-shadow: 1px 1px rgba(0, 0, 0, 1);
 }
