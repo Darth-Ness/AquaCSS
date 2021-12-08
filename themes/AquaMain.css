@@ -1,3 +1,4 @@
+@import "local.css";
 .header,.banner,.card,button {
     padding: 15px;
     box-shadow: 2px 4px rgba(0, 0, 0, 0.6);
