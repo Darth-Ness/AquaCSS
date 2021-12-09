@@ -4,7 +4,7 @@
 .card:hover {background-color: rgba(201, 198, 198, 0.6);}
 body {
     background-color: #fff;
-    color: #383838; 
+    color:#fff; 
 }
 button {background-image: linear-gradient(-150deg, rgba(255, 255, 255, 0.6), rgba(95, 94, 94, 0.5));}
-a,button {color:#c9c9c9;}
+a,button {color:#fff;}
