@@ -2,7 +2,7 @@
 .header,.banner,.card,button {
     padding: 15px;
     box-shadow: 0 4px 7px rgba(0, 0, 0, 0.6);
-    border-radius: 10px;
+    border-radius: 20px;
     text-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
 }
 .header,.banner {border-radius: 0px;}
