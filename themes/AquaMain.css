@@ -21,7 +21,7 @@
 }
 .card:hover { box-shadow: 0 4px 10px rgba(0, 0, 0.8);}
 body{
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: system;
     margin: 0;
     font-weight: 900;
     font-size: 18;
