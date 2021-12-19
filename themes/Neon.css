@@ -4,6 +4,6 @@
     background-color: rgba(153, 223, 255, 0.6);
     transition: background-color 700ms;}
 .card:hover {background-color: rgba(153, 223, 225, 0.8);}
-body {color: #696969; }
+body {color: #002c8b; }
 button {background-image: linear-gradient(to bottom, #4278ee, #073394);}
 a,button{color: #c9c9c9;}

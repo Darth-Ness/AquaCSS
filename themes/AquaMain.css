@@ -7,12 +7,18 @@
 }
 .header,.banner {border-radius: 0px;}
 .header {margin-bottom: 5%;}
-
 .card {
     width: fit-content;
+    min-width: 30%;
     max-width: 60%;
-    transition: box-shadow 500ms, background-color 1s;
+    transition: box-shadow 500ms, background-color 700ms;
     margin-bottom: 10%;
+}
+.sidebar {
+    height: 100%;
+    position: absolute;
+    bottom: -20%;
+    width: fit-content;
 }
 .card:hover { box-shadow: 0 4px 10px rgba(0, 0, 0.8);}
 body{
@@ -29,10 +35,14 @@ button {
     cursor: pointer;
     opacity: 0.8;
 }
+input {
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 20;
+    font-weight: 500;
+}
 button:hover {box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);}
 .left {float: left;}
 .right {float: right;}
-.top {position: relative; bottom: 100%}
-.bottom {position: relative; top: 100%}
 .absolute {position: absolute;}
 a {text-decoration: none;}

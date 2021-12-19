@@ -8,3 +8,7 @@ body {
 }
 button {background-image: linear-gradient(to bottom, rgb(134, 67, 196), rgb(55, 24, 139));}
 a,button {color:#c9c9c9;}
+input {
+    border: 1px solid #383838;
+    color: rgb(134, 67, 196);
+}

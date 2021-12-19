@@ -8,3 +8,8 @@
 body {background-color: #001219;}
 button {background-image: linear-gradient(to bottom, #6ea8ff, #24406b)}
 a,body, button {color:#c9c9c9;}
+input {
+    border: 1px solid #383838;
+    background-color: #001219;
+    color: rgba(208, 188, 240, 0.8);
+}

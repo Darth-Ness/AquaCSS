@@ -6,5 +6,10 @@ body {
     background-color: #001219;
     color: #db24c3; 
 }
+input {
+    border: 1px solid #383838;
+    background-color: #001219;
+    color: #db24c3;
+}
 button {background-image: linear-gradient(to bottom, #db24c3, #520e49);}
 a,button{color:#c9c9c9;}

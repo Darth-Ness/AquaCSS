@@ -4,3 +4,8 @@
 .card:hover {background-color: rgba(31, 155, 37, 0.8);}
 body,a { color: #e0e0e0; background-color: #001219; }
 button {background-image: linear-gradient(to bottom, #696969, #303030); color:#c9c9c9; }
+input {
+    border: 1px solid #383838;
+    background-color: #001219;
+    color: rgba(143, 236, 148, 0.6);
+}
