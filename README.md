@@ -1,4 +1,4 @@
-# AuqaCSS
+# AquaCSS
 A CSS framework that brings modern design to your website
 
 # How to use
@@ -9,11 +9,11 @@ Then add the following two line to your HTML file
 <link rel="stylesheet" href="themes/'The theme you want'.css">
 ```
 If there is a part of AquaCSS you don't like, you can create local.css. Which will be auto imported!
-# Enjoying AuqaCSS?
-If you are enjoying AuqaCSS then please add this code snippet to your page.
-It doesn't take up much space, and it might help improve AuqaCSS
+# Enjoying AquaCSS?
+If you are enjoying AquaCSS then please add this code snippet to your page.
+It doesn't take up much space, and it might help improve AquaCSS
 ```HTML
 <div id="header">
-<h3>This site was created with AuqaCSS. More info here: https://github.com/Darth-Ness/AuqaCSS</h3>
+<h3>This site was created with AquaCSS. More info here: https://github.com/Darth-Ness/AquaCSS</h3>
 </div>
 ```
