@@ -35,8 +35,8 @@ button {
 }
 input {
     border-radius: 8px;
-    padding: 8px;
-    font-size: 20;
+    font-size: 18px;
+    padding: 4px;
     font-weight: 500;
 }
 button:hover {box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);}
