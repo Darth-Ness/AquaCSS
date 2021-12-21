@@ -1,14 +1,7 @@
 @import "AquaMain.css";
 .header,.banner,.card {background-color: rgba(26, 94, 241, 0.2);}
-.card:hover {background-color: rgba(30, 135, 255, 0.4);}
-body {
-    background-color: #001219;
-    color: #db24c3; 
-}
-input {
-    border: 1px solid #383838;
-    background-color: #001219;
-    color: #db24c3;
-}
+body {background-color: #001219;color: #db24c3;}
+input {border: 1px solid #383838;background-color: #001219; color:#db24c3}
+input:focus {border-bottom: 3px solid rgba(26, 94, 241, 0.6);}
 button {background-image: linear-gradient(to bottom, #db24c3, #520e49);}
 a,button{color:#c9c9c9;}
