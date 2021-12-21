@@ -1,7 +1,0 @@
-@import "AquaMain.css";
-.header,.banner,.card {background-color: rgba(163, 163, 163, 0.3);}
-body {background-color: #fff;color:rgb(53, 59, 139);}
-button {background-image: linear-gradient(-150deg, rgba(255, 255, 255, 0.6), rgba(95, 94, 94, 0.5));}
-a,button {color:#fff;}
-input {border: 1px solid #918f8f;color: #041347;}
-input:focus {border-bottom: 3px solid #838383;}

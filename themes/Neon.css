@@ -2,6 +2,7 @@
 .header,.banner {background-color: rgba(247, 33, 25, 0.8);}
 .card {background-color: rgba(153, 223, 255, 0.6);}
 body {color: #002c8b; }
-button {background-image: linear-gradient(to bottom, #4278ee, #073394);}
+button {background-image: linear-gradient(to bottom, #b3b3b3, #646464);}
+.button-highlight {background-image: linear-gradient(to bottom, #4278ee, #073394);}
 a,button{color: #c9c9c9;}
 input:focus {border-bottom: 3px solid #073394;}

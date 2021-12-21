@@ -1,7 +1,8 @@
 @import "AquaMain.css";
 .header,.banner,.card {background-color: rgba(255, 255, 255, 0.5);}
-body {background-image: linear-gradient(to bottom, rgb(255, 145, 0), rgb(248, 238, 148));color: #860ace; background-repeat: no-repeat;}
-button {background-image: linear-gradient(to bottom, rgb(134, 67, 196), rgb(55, 24, 139));}
+body {background-image: linear-gradient(to bottom, rgb(255, 145, 0), rgb(248, 238, 148));color: #860ace; background-repeat: no-repeat; height: 100%;}
+button {background-image: linear-gradient(to bottom, rgb(160, 160, 160),rgb(82, 82, 82));}
+.button-highlight {background-image: linear-gradient(to bottom, rgb(134, 67, 196), rgb(55, 24, 139));}
 a,button {color:#c9c9c9;}
 input {color: rgb(134, 67, 196);}
 input:focus {border-bottom: 3px solid rgb(134, 67, 196);}
