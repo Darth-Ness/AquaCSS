@@ -3,7 +3,7 @@
 button:hover {opacity: 0.9; box-shadow: 0 4px 10px rgb(0, 0, 0);}
 .header,.banner {border-radius: 0px;}
 .header {margin-bottom: 5%;}
-.banner {width:100%}
+.fillwidth {width: 100%}
 .card {width: fit-content;max-width: 60%; margin-bottom: 10%;}
 .sidebar {height: 100%;position: absolute;bottom: -20%;width: fit-content;}
 body{font-family: sytem-ui;margin: 0;font-weight: 900;}
