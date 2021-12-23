@@ -1,6 +1,6 @@
 @import "AquaMain.css";
 .header,.banner,.card {background-color: rgba(62, 199, 69, 0.6); color: #fff;}
 body,a { color: #414141; }
-button {background-image: linear-gradient(to bottom, #696969, #303030); color: #c9c9cc;}
-.button-highlight {background-image: linear-gradient(to bottom, rgb(64, 238, 72), rgb(27, 133, 32));}
+button {background-color:#303030; color: #c9c9cc;}
+.button-highlight {background-color:rgb(17, 182, 25);}
 input:focus {border-bottom: 3px solid #414141;}

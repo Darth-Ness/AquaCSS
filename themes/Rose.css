@@ -3,7 +3,7 @@
 body {background-color: #001219;color: #db24c3;}
 input {border: 1px solid #383838;background-color: #001219; color:#db24c3}
 input:focus {border-bottom: 3px solid rgba(26, 94, 241, 0.6);}
-button {background-image: linear-gradient(to bottom, #aaa, #444); box-shadow: 0 4px 7px rgba(201, 201, 201, 0.6)}
+button {background-color: #444; box-shadow: 0 4px 7px rgba(201, 201, 201, 0.6)}
 button:hover {box-shadow: 0 4px 10px rgb(201, 201, 201);}
-.button-highlight {background-image: linear-gradient(to bottom, #db24c3, #520e49);}
+.button-highlight {background-color: #db24c3;}
 a,button{color:#c9c9c9;}

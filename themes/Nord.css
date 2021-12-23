@@ -3,9 +3,9 @@
 .header,.banner {background-color: #3b4252;}
 .card {background-color: #3b4252;}
 body {background-color: #2e3440;}
-button {background-image: linear-gradient(to bottom, #434c5e, #1c1f25); box-shadow: 0 4px 7px rgba(201, 201, 201, 0.6)}
+button {background-color: #1c1f25; box-shadow: 0 4px 7px rgba(201, 201, 201, 0.6)}
 button:hover {box-shadow: 0 4px 10px rgb(201, 201, 201)}
-.button-highlight {background-image: linear-gradient(to bottom, #5e81ac, rgb(23, 41, 68)); color: #fff}
+.button-highlight {background-color: #5e81ac; color: #fff}
 a,body, button {color:#c9c9c9;}
 input {background-color: #4c566a;color: rgba(208, 188, 240, 0.8);}
 input:focus {border-bottom: 3px solid #24406b;}
