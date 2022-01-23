@@ -1,6 +1,6 @@
 @import "AquaMain.css";
 .header,.banner,.card {background-color: #111; color: #4AF626}
-body { color: #4AF626; background-color: #000; }
+body,.hidebg { color: #4AF626; background-color: #000; }
 a{color:#4AF626}
 button {background-color: #111; color:#4AF626; }
 .button-highlight {background-color: #4AF626; color: #000}

@@ -1,6 +1,6 @@
 @import "AquaMain.css";
 .header,.banner,.card {background-color: rgba(101, 26, 241, 0.6);}
-body {background-color: #001219;color: #db24c3;}
+body,.hidebg {background-color: #001219;color: #db24c3;}
 input {background-color: #001219; color:#db24c3}
 input:focus {border-bottom: 3px solid rgba(26, 94, 241, 0.6);}
 button {background-color: #444; box-shadow: 0 4px 7px rgba(201, 201, 201, 0.6)}
