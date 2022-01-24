@@ -1,8 +1,7 @@
 @import "AquaMain.css";
-.header,.banner {background-color: rgba(247, 33, 25, 0.8);}
-.card {background-color: rgba(153, 223, 255, 0.6);}
-body,.hidebg {color: #002c8b; }
-button {background-color: #646464;}
-.button-highlight {background-color: #073394;}
-a,button{color: #c9c9c9;}
-input:focus {border-bottom: 3px solid #073394;}
+.header,.banner,.card {background-color: #ee6e73;} 
+body,.hidebg {background: #fff;color:#212121 }
+button {background-color: #26a69a; color:#fff!important}
+.button-highlight {background-color: #ee6e73;}
+a{color: #c9c9c9;}
+input:focus {border-bottom: 3px solid #ree6e73;}
