@@ -1,7 +1,7 @@
 @import "local.css";
 .header,.banner,.card,button,textarea{padding: 10px;box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);border-radius: 20px;}
 button:hover {opacity: 0.9; box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);}
-textarea {width: 50%;height: 100%;resize: none;font-weight: 900}
+textarea {width: 50%;height: 100%;resize: none;font-weight: 900; font-size:16;}
 .header,.banner {border-radius: 0px;}
 .header {margin-bottom: 5%;}
 .fillwidth {width: 100%}

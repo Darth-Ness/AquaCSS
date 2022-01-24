@@ -5,6 +5,6 @@ body,.hidebg,textarea {background-color: #001219;}
 button {background-color: #313131; box-shadow: 0 4px 7px rgba(201, 201, 201, 0.3)}
 button:hover {box-shadow: 0 4px 10px rgb(201, 201, 201)}
 .button-highlight {background-color: #24406b; color: #fff}
-a,body, button {color:#c9c9c9;}
+a,body, button,textarea {color:#fff;}
 input {background-color: #001219;color: rgba(208, 188, 240, 0.8);}
 input:focus {border-bottom: 3px solid #24406b;}
