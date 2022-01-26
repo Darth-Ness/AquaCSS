@@ -2,8 +2,8 @@
 .header,.banner {background-color: rgba(149, 109, 214, 0.2);}
 .card {background-color: rgba(149, 109, 214, 0.2);}
 body,.hidebg,textarea {background-color: #001219;}
-button {background-color: #313131; box-shadow: 0 4px 7px rgba(201, 201, 201, 0.3)}
-button:hover {box-shadow: 0 4px 10px rgb(201, 201, 201)}
+button {background-color: #313131}
+button:hover {box-shadow: 0 4px 10px rgb(110, 110, 110)}
 .button-highlight {background-color: #24406b; color: #fff}
 a,body, button,textarea {color:#fff;}
 input {background-color: #001219;color: rgba(208, 188, 240, 0.8);}
