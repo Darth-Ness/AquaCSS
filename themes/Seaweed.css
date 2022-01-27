@@ -6,3 +6,4 @@ button:hover {box-shadow: 0 4px 10px rgb(110, 110, 110)}
 .button-highlight {background-color:rgb(17, 182, 25);color: #fff}
 input {background-color: #001219;color: rgba(0, 255, 13, 0.9);}
 input:focus {border-bottom: 3px solid #aaa;}
+select {background:#2e3440;color:#fff}

@@ -6,3 +6,4 @@ button {background-color: #fff; color:#6366F1; }
 .button-highlight {background-color: #6366F1; color: #fff}
 input {color: #6366F1;}
 input:focus {border-bottom: 3px solid #294294;}
+select {background:#fff;color:#6366F1}

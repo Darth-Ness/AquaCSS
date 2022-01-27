@@ -6,3 +6,4 @@ button {background-color: rgb(82, 82, 82);}
 a,button {color:#c9c9c9;}
 input {color: rgb(134, 67, 196);}
 input:focus {border-bottom: 3px solid rgb(134, 67, 196);}
+select {background:#c9c9c9;color:rgb(134, 67, 196)}

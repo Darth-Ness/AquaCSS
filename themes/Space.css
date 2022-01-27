@@ -8,3 +8,4 @@ button:hover {box-shadow: 0 4px 10px rgb(110, 110, 110)}
 a,body, button,textarea {color:#fff;}
 input {background-color: #001219;color: rgba(208, 188, 240, 0.8);}
 input:focus {border-bottom: 3px solid #24406b;}
+select {background:#2e3440;color:#24406b}

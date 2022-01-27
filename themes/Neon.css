@@ -4,4 +4,5 @@ body,.hidebg {background: #fff;color:#212121 }
 button {background-color: #26a69a; color:#fff!important}
 .button-highlight {background-color: #ee6e73;}
 a{color: #c9c9c9;}
-input:focus {border-bottom: 3px solid #ree6e73;}
+input:focus {border-bottom: 3px solid #26a69a;}
+select {background:#fff;color:#ee6e73}

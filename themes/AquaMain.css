@@ -17,3 +17,4 @@ input {border: 3px solid rgba(0, 0, 0,0);border-radius: 8px;padding: 10px;font-f
 .top {position: fixed;top: 0;}
 .screen {height: 100%}
 a {text-decoration: none; background-color: inherit}
+select {padding: 5px 5px;border: 1px solid;border-radius: 4px}
