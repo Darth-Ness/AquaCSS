@@ -1,4 +1,4 @@
-@import AquaMain.css;
+@import "AquaMain.css";
 .header,.banner,.card {background-color: #111; color: #4AF626}
 body,.hidebg,textarea { color: #4AF626; background-color: #000; }
 a,textarea{color:#4AF626}

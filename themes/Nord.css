@@ -1,5 +1,5 @@
 /*Credit to the Nord Theme team for this theme which is based off of the Polar Night */
-@import AquaMain.css;
+@import "AquaMain.css";
 .header,.banner {background-color: #3b4252;}
 .card {background-color: #3b4252;}
 body,.hidebg,textarea {background-color: #2e3440;}

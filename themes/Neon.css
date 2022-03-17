@@ -1,4 +1,4 @@
-@import AquaMain.css;
+@import "AquaMain.css";
 .header,.banner,.card {background-color: #ee6e73;} 
 body,.hidebg {background: #fff;color:#212121 }
 button {background-color: #26a69a; color:#fff!important}
