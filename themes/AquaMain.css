@@ -11,7 +11,7 @@ button {border: none;transition: box-shadow 500ms, background-color 500ms;margin
 input {border: 3px solid rgba(0, 0, 0,0);border-radius: 8px;padding: 10px;font-family: inherit;transition: border-bottom 200ms;outline: none;font-weight: 900;}
 .left {float: left;}
 .right {float: right;}
-.center {text-align: center;display:flex;justify-content:center;}
+.center {text-align: center;justify-content:center;}
 .bottom {position: fixed;bottom: 0;}
 .top {position: fixed;top: 0;}
 .screen {height: 100%}
