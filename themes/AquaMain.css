@@ -4,7 +4,7 @@ textarea {width: 50%;height: 100%;resize: none;font-weight: 900; font-size:16;}
 .header,.banner {border-radius: 0px;}
 .header {margin-bottom: 5%;}
 .fillwidth {width: 100%}
-.card {width: fit-content;max-width: 60%; margin-bottom: 10%;}
+.card {width: fit-content;max-width: 60%;}
 .sidebar {height: 100%;position: absolute;bottom: -20%;width: fit-content;}
 body{font-family:Arial, sans-serif;margin: 0;font-weight: 900}
 button {border: none;transition: box-shadow 500ms, background-color 500ms;margin-right: 7px;font-family: inherit;border-radius: 7px;}
