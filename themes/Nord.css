@@ -7,6 +7,6 @@ button {background-color: #1c1f25;}
 button:hover {box-shadow: 0 4px 10px rgb(110, 110, 110)}
 .button-highlight {background-color: #5e81ac; color: #eceff4}
 a,body,textarea, button {color:#eceff4;}
-input {background-color: #4c566a;color: rgba(208, 188, 240, 0.8);}
+input {background-color: #4c566a;color: #eceff4;}
 input:focus {border-bottom: 3px solid #24406b;}
 select {background:#2e3440;color:#eceff4}
