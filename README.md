@@ -8,6 +8,10 @@ Then add the following two line to your HTML file
 ```HTML
 <link rel="stylesheet" href="themes/'AquaMain.css">
 ```
+If you would like to use the online version.
+```HTML
+<link rel="stylesheet" href="https://AquaCSS.darth-ness.repl.co">
+```
 # Enjoying AquaCSS?
 If you are enjoying AquaCSS then please add this code snippet to your page.
 It doesn't take up much space, and it might help improve AquaCSS
