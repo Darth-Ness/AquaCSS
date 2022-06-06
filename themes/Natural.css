@@ -5,6 +5,5 @@ button {background-color:#303030; color: #c9c9cc;}
 .button-highlight {background-color:rgb(17, 182, 25);}
 input:focus {border-bottom: 3px solid #414141;}
 select {background:#fff;color:rgb(17, 182, 25)}
-.header,.banner,.card,button,textarea{padding: 10px;;border-radius: 20px;}
 button:hover {opacity: 0.9; box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);}
 textarea {width: 50%;height: 100%;resize: none;font-weight: 900; font-size:16;}

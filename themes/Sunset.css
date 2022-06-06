@@ -1,9 +1,0 @@
-@import "AquaMain.css";
-.header,.banner,.card {background-color: rgba(243, 194, 130, 0.5);}
-body,.hidebg {color: #860ace; background-repeat: no-repeat; height: 100%;}
-button {background-color: rgb(82, 82, 82);}
-.button-highlight {background-color: rgb(134, 67, 196);}
-a,button {color:#c9c9c9;}
-input {color: rgb(134, 67, 196);}
-input:focus {border-bottom: 3px solid rgb(134, 67, 196);}
-select {background:#c9c9c9;color:rgb(134, 67, 196)}
