@@ -16,6 +16,7 @@
 .sameline {display: inline;vertical-align: top;line-height: 28px;margin-right: 20px;}
 .hidden {display: none;}
 .bgNone{background: rgba(0,0,0,0)}
+.popup {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);background:var(--default2); border-radius:10px;}
 
 button {border: none;transition:filter 300ms;margin-right: 7;font-family: inherit;border-radius: 9px; padding: 10; background: var(--default3); color:var(--text);}
 button:hover {filter: brightness(90%);}
