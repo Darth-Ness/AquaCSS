@@ -27,3 +27,7 @@ input:focus {border-bottom: 3px solid var(--blue4);}
 a {text-decoration: none; background-color: inherit; color:var(--text)}
 select {padding: 5 5;border: 1px solid;border-radius: 4px; background:var(--default); color:var(--text)}
 body{margin:0;}
+table {border:1px;width: 100%;color:#b48ead;}
+th, td {text-align:center;padding: 8px 5px;}
+tr:nth-child(even) {background-color: #434c5e;}
+tr:nth-child(odd) {background-color: #4c566a;}
