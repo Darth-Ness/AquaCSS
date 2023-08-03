@@ -8,4 +8,4 @@ input {color: #6366F1;}
 input:focus {border-bottom: 3px solid #294294;}
 select {background:#fff;color:#6366F1}
 button:hover {opacity: 0.9; box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);}
-textarea {width: 50%;height: 100%;resize: none;font-weight: 900; font-size:16;}
+textarea {width: 50%;height: 100%;resize: none;font-weight: 900; font-size:16px;}
