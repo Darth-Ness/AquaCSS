@@ -9,6 +9,7 @@
 .left {float: left;}
 .right {float: right;}
 .center {text-align:center;}
+.centerDiv {display: block;margin: 0 auto;}
 .bottom {position: fixed;bottom: 0;}
 .top {position: fixed;top: 0;}
 .screen {height: 100%}
