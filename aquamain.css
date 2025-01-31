@@ -1,0 +1,15 @@
+:root {--red:#bf616a;--orange: #d08770;--yellow: #ebcb8b;--green: #a3be8c;--blue1:#8fbcbb;--blue2:#88c0d0;--blue3:#81a1c1;--blue4:#5e81ac;--purple: #b48ead;--default:#2e3440; --default2:#3b4252;--default3:#434c5e; --bhover:#4c566a; --text: #eceff4}
+
+button {border: none;transition:filter 300ms;margin-right: 7px;font-family: inherit;border-radius: 9px; padding: 10px; background: var(--default3); color:var(--text);}
+button:hover {filter: brightness(90%);}
+textarea {resize: none;font-weight: 900; font-size:16px; padding: 10px;border-radius: 20px; background: var(--default); color:var(--text);}
+body{font-family:Arial, sans-serif;margin: 0px;font-weight: 900; background: var(--default); color:var(--text);}
+input {border: 3px solid rgba(0, 0, 0,0);border-radius: 8px;padding: 10px;font-family: inherit;transition: border-bottom 200ms;outline: none;font-weight: 900; background: var(--default3);color: var(--text);}
+input:focus {border-bottom: 3px solid var(--blue4);}
+a {text-decoration: none; background-color: inherit; color:var(--text)}
+select {padding: 5px 5px;border: 1px solid;border-radius: 4px; background:var(--default); color:var(--text)}
+body{margin:0px;}
+table {border:1px;width: 100%;color:#b48ead;}
+th, td {text-align:center;padding: 8px 5px;}
+tr:nth-child(even) {background-color: #434c5e;}
+tr:nth-child(odd) {background-color: #4c566a;}
