@@ -2,8 +2,9 @@
 
 button {border: none;transition:filter 300ms;margin-right: 7px;font-family: inherit;border-radius: 9px; padding: 10px; background: var(--default3); color:var(--text);}
 button:hover {filter: brightness(90%);}
-textarea {resize: none;font-weight: 900; font-size:16px; padding: 10px;border-radius: 20px; background: var(--default); color:var(--text);}
+textarea {resize: none;font-family: inherit; padding: 10px;border-radius: 10px; background: var(--default2); color:var(--text); width: 70%; display: block;border:0px;}
 body{font-family: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Segoe UI Emoji,Apple Color Emoji,Noto Color Emoji,sans-serif;margin: 0px;background: var(--default); color:var(--text);}
+input[type=radio] {display:initial }
 input {border: 3px solid rgba(0, 0, 0,0);border-radius: 8px;padding: 10px;font-family: inherit;transition: border-bottom 200ms;outline: none;font-weight: 900; background: var(--default3);color: var(--text); display:block ; margin-bottom: 6px;}
 input:disabled {color: var(--red); cursor: (not-allowed);}
 input:focus {border-bottom: 3px solid var(--blue4);}
