@@ -15,4 +15,4 @@ table {border:1px;width: 100%;color:#b48ead;}
 th, td {text-align:center;padding: 8px 5px;}
 tr:nth-child(even) {background-color: #434c5e;}
 tr:nth-child(odd) {background-color: #4c566a;}
-pre{background: var(--default2); width:60%;border-radius:15px;text-align:left;}
+pre{background: var(--default2); width:60%;border-radius:15px;text-align:left; padding: 10px;}
